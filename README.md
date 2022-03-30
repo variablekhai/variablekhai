@@ -7,7 +7,7 @@
 <br>
 
 ## :sassy_man:  About me
-- :school: I am a `Student' from Faculty of Computing at Universiti Malaysia Pahang
+- :school: I am a `Student` from Faculty of Computing at Universiti Malaysia Pahang
 - :student: I’m currently in my final year pursuing `Diploma in Computer Science`
 - :technologist: `Self motivated` and someone who just enjoys programming
 - :thinking: I’m currently open for an `Internship` in Aug 2022
