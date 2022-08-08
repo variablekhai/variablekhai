@@ -8,6 +8,5 @@
 
 ## About me
 - :school: a `Student` from Faculty of Computing at Universiti Malaysia Pahang
-- :thinking: currently open for an `Internship` in Aug 2022
 
 <br>
